@@ -46,7 +46,7 @@ const MyName = "PranayKumar"
 // MyName = "kumar"
 console.log(MyName);
 // ERROR !
-// TypeError: Assignment to constant variable.
+// TypeError: Assignment to constant variable
 
 
 
